@@ -1,0 +1,11 @@
+
+.vs/sussy/v16/.suo
+*.exe
+sussy/bin/Debug/sussy.exe.config
+sussy/bin/Debug/sussy.pdb
+sussy/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttributes.cs
+sussy/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+sussy/obj/Debug/sussy.csproj.AssemblyReference.cache
+sussy/obj/Debug/sussy.csproj.CoreCompileInputs.cache
+sussy/obj/Debug/sussy.csproj.FileListAbsolute.txt
+sussy/obj/Debug/sussy.pdb
